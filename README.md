@@ -103,5 +103,5 @@ CodeMate behaves like:
 
 ## Conseils PG
 
-* Open Viking
+* [Open Viking](https://github.com/volcengine/OpenViking)
 * [Duckling](https://github.com/facebook/duckling)
