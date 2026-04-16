@@ -109,3 +109,4 @@ CodeMate behaves like:
 * Orchestrator-agents architecture with context building
 * System Prompt
 * N8N - Automatisation system for IA
+* Neo4J
