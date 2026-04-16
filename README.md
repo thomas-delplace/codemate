@@ -106,3 +106,6 @@ CodeMate behaves like:
 * [Open Viking](https://github.com/volcengine/OpenViking)
 * [Duckling](https://github.com/facebook/duckling)
 * MCP (Model Context Protocole) - intermodels communications + model-software communications
+* Orchestrator-agents architecture with context building
+* System Prompt
+* N8N - Automatisation system for IA
