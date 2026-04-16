@@ -100,3 +100,8 @@ CodeMate behaves like:
 * No implicit memory
 * No hidden state mutation
 * All changes are explicit via commands
+
+## Conseils PG
+
+* Open Viking
+* [Duckling](https://github.com/facebook/duckling)
